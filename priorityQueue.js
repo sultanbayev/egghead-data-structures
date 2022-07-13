@@ -47,4 +47,4 @@ module.exports = { createPriorityQueue }
 
 // pq.enqueue('Emergency task!', true);
 // pq.dequeue();
-// console.log(pq.peek());
+// console.log(pq.length);
