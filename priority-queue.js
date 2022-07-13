@@ -33,8 +33,6 @@ function createPriorityQueue() {
     }
 }
 
-module.exports = { createPriorityQueue }
-
 // const pq = createPriorityQueue();
 
 // console.log(pq.isEmpty());
